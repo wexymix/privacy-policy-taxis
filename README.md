@@ -24,6 +24,6 @@ We take reasonable measures to protect data, but no transmission or storage can 
 
 ## Contact
 
-If you have questions about this policy, contact us at: privacy@example.com
+If you have questions about this policy, contact us at: acacias.laminar-0z@icloud.com
 
 > This page is a simple, minimal privacy statement intended for demonstration and should be reviewed by legal counsel before production use.
