@@ -1,35 +1,29 @@
-# Privacy Policy (GitHub Pages)
+# Privacy Policy
 
-This repository contains a minimal privacy policy page intended to be published via GitHub Pages.
+_Last updated: 2026-07-09_
 
-How to publish as a private repo and get a URL
+This privacy policy describes how we collect and use personally identifiable information in connection with our taxi apps. By using our services you agree to the collection and use of information in accordance with this policy.
 
-1. Create a new private repository on GitHub (for example, `privacy-policy-<app>`).
-2. From this folder, initialize git, add files and push:
+## Information We Collect
 
-```bash
-cd privacy-policy-github
-git init
-git add .
-git commit -m "Add privacy policy page"
-git branch -M main
-git remote add origin git@github.com:YOUR_USERNAME/REPO_NAME.git
-git push -u origin main
-```
+- Contact and account information you provide (name, phone, username).
+- Drive-related data such as origins, destinations, and scheduling details needed to provide the service.
+- Device and usage data for diagnostics and to improve the service.
 
-3. On GitHub, go to the repository Settings → Pages and choose the `main` branch (root) as source. Save.
+## How We Use Information
 
-4. The published URL will usually be:
+We use information to operate and improve the service, provide support, process bookings, and for safety and fraud prevention.
 
-- For a user/org project site: `https://YOUR_USERNAME.github.io/REPO_NAME/`
+## Data Sharing
 
-Notes:
-- GitHub Pages sites are public by URL even if the repository is private in some account plans; verify access settings.
-- Alternatively you can use the `gh` CLI to create a private repo and push in one step:
+We do not sell personal data. We may share data with service providers who process information on our behalf (e.g., hosting, analytics) under confidentiality obligations.
 
-```bash
-gh repo create REPO_NAME --private --source=. --remote=origin --push
-gh pages enable --branch main --path /
-```
+## Security
 
-Replace `YOUR_USERNAME` and `REPO_NAME` with your values.
+We take reasonable measures to protect data, but no transmission or storage can be guaranteed to be 100% secure.
+
+## Contact
+
+If you have questions about this policy, contact us at: privacy@example.com
+
+> This page is a simple, minimal privacy statement intended for demonstration and should be reviewed by legal counsel before production use.
